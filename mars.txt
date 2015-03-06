@@ -1,12 +1,8 @@
 Cold and dry, but everything is my favorite color
-<<<<<<< HEAD
 The two moons may be a problem for Wolfman
-=======
 The two moons may be a problem for Wolfman
 trying with a new line
-
 Adriana, it was very lovely meeting you. :) 
->>>>>>> 0e6f0508922dc762581788158f91db1789d6587a
 Hello hello
-
 Hola, amiga!
+Let's see how it goes - your spanish is good
