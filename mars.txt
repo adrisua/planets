@@ -8,3 +8,5 @@ trying with a new line
 Adriana, it was very lovely meeting you. :) 
 >>>>>>> 0e6f0508922dc762581788158f91db1789d6587a
 Hello hello
+
+Hola, amiga!
